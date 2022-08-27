@@ -1,0 +1,33 @@
+/* .row{
+  border: 1px solid #f1f1f1;
+}
+
+.col{
+  border: 1px solid #f1f1f1;
+} */
+
+.mt{
+  margin-top: 50px;
+}
+
+
+/* //select */
+
+.form-select{
+  background-color: aqua !important;
+}
+option{
+  background-color: blue;
+  color: #fff;
+}
+
+select{
+  border: 10px solid rgb(78, 25, 25) !important;
+}
+
+select:hover{
+  border: 12px solid rgb(22, 187, 77) !important;
+}
+
+
+/* //button */
